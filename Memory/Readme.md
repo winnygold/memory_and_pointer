@@ -29,18 +29,18 @@ In general a computer will have higher ROM than RAM. For Example, A computer can
 -----------------
 ### What are the types of memory used in applications: 
 
-- Cache Memory
-- RAM         (Random Access Memory)
-- DRAM        (Dynamic RAM)
-- SRAM        (Static RAM)
-- DDR SRAM    (Double Data Rate Static RAM)
-- DDR4 SRAM   (Double Data Rate 4 Synchronous Dynamic RAM)
-- DRDRAM      (Rambus Dynamic RAM)
-- ROM         (Read Only Memory)
-- PROM        (Programmable RAM)
-- EPROM       (Erasable PROM)
-- EEPROM      (Electrically Erasable PROM)
-- Virtual Memory
+- **Cache Memory**
+- **RAM**         (Random Access Memory)
+- **DRAM**        (Dynamic RAM)
+- **SRAM**        (Static RAM)
+- **DDR SRAM**    (Double Data Rate Static RAM)
+- **DDR4 SRAM**   (Double Data Rate 4 Synchronous Dynamic RAM)
+- **DRDRAM**      (Rambus Dynamic RAM)
+- **ROM**         (Read Only Memory)
+- **PROM**        (Programmable RAM)
+- **EPROM**       (Erasable PROM)
+- **EEPROM**      (Electrically Erasable PROM)
+- **Virtual Memory**
 ------------------
 
 
