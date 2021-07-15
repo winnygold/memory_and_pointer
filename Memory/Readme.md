@@ -14,7 +14,7 @@ The term storage refers to secondary memory where the data in a computer is kept
 
 The information and files required by a program that is running is kept in the memory and stored in storage after it is closed.
 
-![Memory Architecture](./data/Memory1.jpg)
+![Memory Architecture](./memory_and_pointer/data/Memory1.jpg)
 
 
 ### Why RAM is lesser than ROM in computers and devices ? 
