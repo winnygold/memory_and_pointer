@@ -1,12 +1,12 @@
 # **Memory**
 
 ### What is Memory? 
-```
-Memory is a electronic holding place for instruction and data that a CPU needs to reach quickly. 
-Memory is used by computer operating system , hardware and software(Basically everything). 
-There are two types of memory i.e Primary memory and Secondary memory.  
-We should not confuse memory with storage.
-```
+
+- Memory is a electronic holding place for instruction and data that a CPU needs to reach quickly. 
+- Memory is used by computer operating system , hardware and software(Basically everything). 
+- There are two types of memory i.e Primary memory and Secondary memory.  
+- We should not confuse memory with storage.
+
 ### Difference between Memory and Storage
 
 Memory is the primary memory and Storage is secondary memory. 
