@@ -14,12 +14,12 @@ The term storage refers to secondary memory where the data in a computer is kept
 
 The information and files required by a program that is running is kept in the memory and stored in storage after it is closed.
 
-![Memory Architecture](../data/Memory1.jpg)
+![Memory Architecture](./data/Memory1.jpg)
 
 
 ### Why RAM is lesser than ROM in computers and devices ? 
 
 In general a computer will have higher ROM than RAM. For Example, A computer can have 8Gb RAM and 250Gb ROM. The difference in space is because the computer won't need all the files immediately to access. So allocating 8Gb or 16Gb is enough for a computer to run programs seamlessly. Cost is also an important factor for lesser RAM . 
 
-![Cost and speed](../data/Memory2.png)
+![Cost and speed](./data/Memory2.png)
 
