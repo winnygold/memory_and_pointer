@@ -1,12 +1,12 @@
 # **Memory**
-===================
+----------------------------
 ### What is Memory? 
 
 - Memory is a electronic holding place for instruction and data that a CPU needs to reach quickly. 
 - Memory is used by computer operating system , hardware and software(Basically everything). 
 - There are two types of memory i.e Primary memory and Secondary memory.  
 - We should not confuse memory with storage.
-===================
+----------------------------
 ### Difference between Memory and Storage
 
 Memory is the primary memory and Storage is secondary memory. 
@@ -19,14 +19,14 @@ The information and files required by a program that is running is kept in the m
 
 ![Memory Architecture](../data/Memory1.jpg)
 
-=====================
+-----------------------------
 ### Why RAM is lesser than ROM in computers and devices ? 
 
 In general a computer will have higher ROM than RAM. For Example, A computer can have 8Gb RAM and 250Gb ROM. The difference in space is because the computer won't need all the files immediately to access. So allocating 8Gb or 16Gb is enough for a computer to run programs seamlessly. Cost is also an important factor for lesser RAM . 
 
 ![Cost and speed](../data/Memory2.png)
 
-=====================
+-----------------------------
 ### What are the types of memory used in applications: 
 
 - **Cache Memory**
@@ -41,7 +41,7 @@ In general a computer will have higher ROM than RAM. For Example, A computer can
 - **EPROM**       (Erasable PROM)
 - **EEPROM**      (Electrically Erasable PROM)
 - **Virtual Memory**
-=====================
+------------------------------
 ### Types of Memory in detail : 
 
 ##### RAM : 
