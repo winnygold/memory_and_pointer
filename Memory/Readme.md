@@ -73,17 +73,28 @@ In general a computer will have higher ROM than RAM. For Example, A computer can
 
 -------------------------------
   
-##### What is a variable and how it is stored ? :
+##### What is a variable and how it is stored ?
 
 To understand variables we have to understand how the memory works in a computer.
 
 - Computers have GB's of memory and each bytes of these memory has a unique address. 
-- We can visualize the RAM to be huge array of bytes and the address as the index of each array element. 
-- Most array has content that are more than a byte so the starting address of the variable is considered. 
- 
+- We can visualize the RAM to be huge contiguous array of bytes and the address as the index of each byte of memory or array of element.
+- Most C++ types span more than one bytes so the starting address of the first byte is considered . 
+
 ![Memory representation as an array](../data/Memory3.png)
 
+In the above image we can see the the values extending to more than one byte and the starting byte address is indexed for the value stored. 
+
+- memory address are defined by hardware and the variable residing in the hardware is completly controlled by the software. 
+-------------------------------
+##### How Variables are processed by the compiler ?
+
+- When we write the program we declare the variables and think in terms of variables.
+- The variables declared by us is a purely abstraction defined by software.
+- When the program is executed the compiler will process the data with the variable memory address.
+- Where the memory is stored is completely up to the compiler.
+- so the variable can be defined as a named location in the memory that has three characterstics. Name , Content and address.
+- Address is always represented in Hexa-decimal
+-------------------------------
 
 
-
- 
