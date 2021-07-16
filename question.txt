@@ -1,20 +1,20 @@
 # Questions to be cleared
 
-- What are the types of memory ? 
-- What are the different types of memory found in a hardware ? 
-- How C and C++ links the OS level operation to memory ? 
-- What are the memory C and C++ can access ?  
-- Units of memory ? 
-- Memory Units conversion ?
+-[x] What are the types of memory ? 
+-[x] What are the different types of memory found in a hardware ? 
+-[ ] How C and C++ links the OS level operation to memory ? 
+-[ ] What are the memory C and C++ can access ?  
+-[ ] Units of memory ? 
+-[ ] Memory Units conversion ?
  
-- What are the Numerical systems ? 
-- Numerical systems conversion ? 
-- What are data-types ? 
-- Why data-types has limits ? 
-- How they are stored in the memory ? 
-- How can they be accessed ? 
+-[ ] What are the Numerical systems ? 
+-[ ] Numerical systems conversion ? 
+-[ ] What are data-types ? 
+-[ ] Why data-types has limits ? 
+-[ ] How they are stored in the memory ? 
+-[ ] How can they be accessed ? 
 
-- What are pointers ? 
-- How pointers access Memory ? 
+-[ ] What are pointers ? 
+-[ ] How pointers access Memory ? 
 
 More Questions will be added to the list
