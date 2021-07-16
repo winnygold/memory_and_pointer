@@ -66,4 +66,10 @@ In general a computer will have higher ROM than RAM. For Example, A computer can
 - SRAM is also a part of the RAM Digital to Analog converter.
 
 ##### DDRAM : 
-- 
+- Double Data Rate Synchronous Dynamic RAM (DDRAM)
+- It is a memory that transfers data twice as fast compared to SDRAM. 
+- DDRAM memory can send and recieve signals as twice in a clock cycle. 
+- This memory is used in graphic processing for efficiency.
+
+-------------------------------
+  
