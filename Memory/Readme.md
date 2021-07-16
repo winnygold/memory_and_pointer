@@ -73,3 +73,17 @@ In general a computer will have higher ROM than RAM. For Example, A computer can
 
 -------------------------------
   
+##### What is a variable and how it is stored ? :
+
+To understand variables we have to understand how the memory works in a computer.
+
+- Computers have GB's of memory and each bytes of these memory has a unique address. 
+- We can visualize the RAM to be huge array of bytes and the address as the index of each array element. 
+- Most array has content that are more than a byte so the starting address of the variable is considered. 
+ 
+![Memory representation as an array](../data/Memory3.png)
+
+
+
+
+ 
