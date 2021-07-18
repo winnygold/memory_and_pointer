@@ -22,3 +22,4 @@ In the above code , content of the variable will not be stored to varible P but 
 Pointer takes 4 byte to store the address in 32-bit machine and 8 byte in 64 bit machine.
 ------------------
 
+
